@@ -48,7 +48,7 @@ const tempWatchedData = [
   },
 ];
 
-const KEY = "dd7f527f";
+const KEY = "Key from API page";
 
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
